@@ -1,0 +1,209 @@
+CRITICAL - 2024-10-12 07:47:47 --> ArgumentCountError: Too few arguments to function CodeIgniter\Router\RouteCollection::put(), 1 passed in C:\xampp8.1.6\htdocs\SAVORIA-TEST\app\Config\Routes.php on line 20 and at least 2 expected
+[Method: GET, Route: employees/add_employee_page]
+in SYSTEMPATH\Router\RouteCollection.php on line 1075.
+ 1 APPPATH\Config\Routes.php(20): CodeIgniter\Router\RouteCollection->put('/api/employees/update')
+ 2 SYSTEMPATH\Router\RouteCollection.php(340): require('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 07:47:49 --> ArgumentCountError: Too few arguments to function CodeIgniter\Router\RouteCollection::put(), 1 passed in C:\xampp8.1.6\htdocs\SAVORIA-TEST\app\Config\Routes.php on line 20 and at least 2 expected
+[Method: GET, Route: employees]
+in SYSTEMPATH\Router\RouteCollection.php on line 1075.
+ 1 APPPATH\Config\Routes.php(20): CodeIgniter\Router\RouteCollection->put('/api/employees/update')
+ 2 SYSTEMPATH\Router\RouteCollection.php(340): require('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 07:48:13 --> ArgumentCountError: Too few arguments to function CodeIgniter\Router\RouteCollection::put(), 1 passed in C:\xampp8.1.6\htdocs\SAVORIA-TEST\app\Config\Routes.php on line 19 and at least 2 expected
+[Method: GET, Route: employees]
+in SYSTEMPATH\Router\RouteCollection.php on line 1075.
+ 1 APPPATH\Config\Routes.php(19): CodeIgniter\Router\RouteCollection->put('/api/employees/update')
+ 2 SYSTEMPATH\Router\RouteCollection.php(340): require('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 07:48:37 --> ArgumentCountError: Too few arguments to function CodeIgniter\Router\RouteCollection::put(), 1 passed in C:\xampp8.1.6\htdocs\SAVORIA-TEST\app\Config\Routes.php on line 20 and at least 2 expected
+[Method: GET, Route: employees]
+in SYSTEMPATH\Router\RouteCollection.php on line 1075.
+ 1 APPPATH\Config\Routes.php(20): CodeIgniter\Router\RouteCollection->put('/api/employees/update')
+ 2 SYSTEMPATH\Router\RouteCollection.php(340): require('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 07:49:21 --> ArgumentCountError: Too few arguments to function CodeIgniter\Router\RouteCollection::put(), 1 passed in C:\xampp8.1.6\htdocs\SAVORIA-TEST\app\Config\Routes.php on line 20 and at least 2 expected
+[Method: GET, Route: employees]
+in SYSTEMPATH\Router\RouteCollection.php on line 1075.
+ 1 APPPATH\Config\Routes.php(20): CodeIgniter\Router\RouteCollection->put('/api/employees/update')
+ 2 SYSTEMPATH\Router\RouteCollection.php(340): require('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Config\\Routes.php')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 07:49:36 --> ErrorException: Declaration of App\Controllers\EmployeeController::show($id) must be compatible with CodeIgniter\RESTful\ResourceController::show($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 22.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 07:49:54 --> ErrorException: Declaration of App\Controllers\EmployeeController::show($id) must be compatible with CodeIgniter\RESTful\ResourceController::show($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 23.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 07:49:58 --> ErrorException: Declaration of App\Controllers\EmployeeController::show($id) must be compatible with CodeIgniter\RESTful\ResourceController::show($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 23.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 07:51:46 --> ErrorException: Declaration of App\Controllers\EmployeeController::show($id) must be compatible with CodeIgniter\RESTful\ResourceController::show($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 25.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 07:52:30 --> ErrorException: Declaration of App\Controllers\EmployeeController::show($id) must be compatible with CodeIgniter\RESTful\ResourceController::show($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 25.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 07:52:41 --> ErrorException: Declaration of App\Controllers\EmployeeController::show($id) must be compatible with CodeIgniter\RESTful\ResourceController::show($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 25.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 07:52:54 --> Error: Call to a member function findAll() on null
+[Method: GET, Route: employees/list]
+in APPPATH\Controllers\EmployeeController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->listEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 07:53:42 --> Error: Call to a member function findAll() on null
+[Method: GET, Route: employees/list]
+in APPPATH\Controllers\EmployeeController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->listEmployee()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:32:52 --> ErrorException: Undefined property: CodeIgniter\HTTP\IncomingRequest::$getVar
+[Method: POST, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 45.
+ 1 APPPATH\Controllers\EmployeeController.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\IncomingRequest::$getVar', 'C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Controllers\\EmployeeController.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:33:10 --> ErrorException: Array to string conversion
+[Method: POST, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 45.
+ 1 APPPATH\Controllers\EmployeeController.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Controllers\\EmployeeController.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:33:42 --> ErrorException: Undefined property: CodeIgniter\HTTP\IncomingRequest::$getPost
+[Method: POST, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 45.
+ 1 APPPATH\Controllers\EmployeeController.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\IncomingRequest::$getPost', 'C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Controllers\\EmployeeController.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->store()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:35:39 --> Error: Undefined constant "App\Controllers\employeeData"
+[Method: POST, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 54.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->store()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:39:24 --> ErrorException: Undefined property: App\Controllers\EmployeeController::$familyMemberModel
+[Method: DELETE, Route: employees/2]
+in APPPATH\Controllers\EmployeeController.php on line 80.
+ 1 APPPATH\Controllers\EmployeeController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\EmployeeController::$familyMemberModel', 'C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Controllers\\EmployeeController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->delete('2')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:45:16 --> ErrorException: Declaration of App\Controllers\EmployeeController::edit($id) must be compatible with CodeIgniter\RESTful\ResourceController::edit($id = null)
+[Method: GET, Route: employees/list]
+in APPPATH\Controllers\EmployeeController.php on line 77.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 08:45:19 --> ErrorException: Declaration of App\Controllers\EmployeeController::edit($id) must be compatible with CodeIgniter\RESTful\ResourceController::edit($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 77.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 08:46:37 --> ErrorException: Declaration of App\Controllers\EmployeeController::edit($id) must be compatible with CodeIgniter\RESTful\ResourceController::edit($id = null)
+[Method: GET, Route: employees]
+in APPPATH\Controllers\EmployeeController.php on line 77.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 08:48:12 --> ErrorException: Undefined property: App\Controllers\EmployeeController::$familyMemberModel
+[Method: GET, Route: employees/edit_employee_page/1]
+in APPPATH\Controllers\EmployeeController.php on line 80.
+ 1 APPPATH\Controllers\EmployeeController.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\EmployeeController::$familyMemberModel', 'C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Controllers\\EmployeeController.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->edit('1')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:48:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "employee/edit.php"
+[Method: GET, Route: employees/edit_employee_page/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('employee/edit.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('employee/edit', [], true)
+ 3 APPPATH\Controllers\EmployeeController.php(86): view('employee/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
+CRITICAL - 2024-10-12 08:53:21 --> ErrorException: Declaration of App\Controllers\EmployeeController::update($id) must be compatible with CodeIgniter\RESTful\ResourceController::update($id = null)
+[Method: GET, Route: employees/edit_employee_page/1]
+in APPPATH\Controllers\EmployeeController.php on line 89.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-12 08:58:38 --> ErrorException: Undefined property: App\Controllers\EmployeeController::$familyMemberModel
+[Method: POST, Route: employees/1]
+in APPPATH\Controllers\EmployeeController.php on line 103.
+ 1 APPPATH\Controllers\EmployeeController.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\EmployeeController::$familyMemberModel', 'C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\app\\Controllers\\EmployeeController.php', 103)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EmployeeController->update('1')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EmployeeController))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp8.1.6\\htdocs\\SAVORIA-TEST\\public\\index.php')
